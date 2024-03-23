@@ -1,6 +1,12 @@
-# Discord Activity: Getting Started Guide
+# dekstop
 
-This template is used in the [Building An Activity](https://discord.com/developers/activities/building-an-activity) tutorial in the Discord Developer Docs.
+discord screen share but u can interact with it
 
-Read more about building Discord Activities with the Embedded App SDK at [https://discord.com/developers/docs/activities/overview](https://discord.com/developers/docs/activities/overview).
+## setup
 
+1. enable obs web socket
+2. create discord app with activity
+3. set env vars
+4. run server and client
+5. connect
+6. click or right click on activity
